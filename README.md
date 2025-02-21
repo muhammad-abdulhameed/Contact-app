@@ -1,16 +1,7 @@
 # contact_app
+![1](https://github.com/user-attachments/assets/c036a15c-e8fc-430e-be72-c97677bdf7bb)
+![f](https://github.com/user-attachments/assets/cda87b26-f0a0-4e40-84cc-94350e4ad2b2)
+![3](https://github.com/user-attachments/assets/f5e6cb2c-583c-4e1d-b072-a55f97fece4b)
+![4](https://github.com/user-attachments/assets/71999949-6319-4cbc-8524-0880d0a5ba23)
+![5](https://github.com/user-attachments/assets/0d712a3e-fcc4-4960-9437-cd08b8ffbf7c)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
